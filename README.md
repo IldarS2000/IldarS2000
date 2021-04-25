@@ -1,8 +1,7 @@
 ### Hi there, I am Ildar👋
 
-<!--
-**Karantir73/Karantir73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+- mail: respectelychka@mail.ru
+- telegram: https://t.me/Illidan2000
+- stackoverflow: https://ru.stackoverflow.com/users/328042/ildar?tab=pr
 

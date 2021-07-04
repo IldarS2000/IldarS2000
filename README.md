@@ -4,6 +4,7 @@ I am student and junior!
 ---
 
 🤖 I am currently learning everything 😂
+my stack: C\C++, Linux, computer networking, python, SQL.
 
 📫 How to reach me: 
 - mail: respectelychka@mail.ru

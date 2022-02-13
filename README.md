@@ -1,11 +1,11 @@
 ### Hi there, I am Ildar👋
 
-I am student and junior!
+I am student and C/C++ Software Engineer!
 ---
 
 🤖 I am currently learning everything 😂
 
-my stack: C\C++, Linux, computer networking, python, SQL.
+My stack: C/C++, Linux, Computer Networking, Python, SQL.
 
 📫 How to reach me: 
 - mail: respectelychka@mail.ru

@@ -1,5 +1,7 @@
 ### Hello there
 
+---
+
 My stack: C/C++, Linux, Computer Networking, Python, SQL.
 
 ---
